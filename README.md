@@ -199,6 +199,13 @@ pytest
    ```
 
 ---
+## Support 
+
+This work was carried out as independent research without external financial support. If you would like to support the author, you can do so via PayPal using the following link: paypal.me/ahmednebli
+
+
+Note: Unless you explicitly request otherwise, your name will be acknowledged as a sponsor in the public GitHub repository associated with this project.
+
 
 ## License
 
