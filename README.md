@@ -206,6 +206,19 @@ This work was carried out as independent research without external financial sup
 
 Note: Unless you explicitly request otherwise, your name will be acknowledged as a sponsor in the public GitHub repository associated with this project.
 
+## Citations
+
+Please cite our work using the following bibtex citation: 
+
+@misc{nebli2025unifyingsignmagnitudeoptimizing,
+      title={Unifying Sign and Magnitude for Optimizing Deep Vision Networks via ThermoLion}, 
+      author={Ahmed Nebli},
+      year={2025},
+      eprint={2512.01881},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2512.01881}, 
+}
 
 ## License
 
